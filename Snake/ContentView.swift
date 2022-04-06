@@ -116,6 +116,7 @@ struct ContentView: View {
                         Button("Play Again") {
                             
                             Logic.restart()
+                             drawSnake()
                         
                         }
                         Button("Cancel") {
