@@ -14,7 +14,7 @@ A Classic Nokia Style Snake game build for IOS Devices.
 
 # Pictures
 
-<img src="https://user-images.githubusercontent.com/10769198/162049073-aab2aedc-8c31-413f-9143-a8c515f288f0.png" width = "40%" />
-<img src="https://user-images.githubusercontent.com/10769198/162049080-33279adc-68de-48f8-b34a-8ccfe307cf75.png" width = "40%" />
-<img src="https://user-images.githubusercontent.com/10769198/162049082-8c8c5dd4-5488-4fc5-bce5-b37e6e56bd44.png" width = "40%" />
-<img src="https://user-images.githubusercontent.com/10769198/162049086-b6196477-1811-4972-8da1-29d0e9ecd5e3.png" width = "40%" />
+<img src="https://user-images.githubusercontent.com/10769198/162049073-aab2aedc-8c31-413f-9143-a8c515f288f0.png" width = "35%" height = "35%"/>
+<img src="https://user-images.githubusercontent.com/10769198/162049080-33279adc-68de-48f8-b34a-8ccfe307cf75.png" width = "35%" height = "35%"/>
+<img src="https://user-images.githubusercontent.com/10769198/162049082-8c8c5dd4-5488-4fc5-bce5-b37e6e56bd44.png" width = "35%" height = "35%"/>
+<img src="https://user-images.githubusercontent.com/10769198/162049086-b6196477-1811-4972-8da1-29d0e9ecd5e3.png" width = "35%" height = "35%"/>
