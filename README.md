@@ -12,6 +12,11 @@ A Classic Nokia Style Snake game build for IOS Devices.
 5. There is a increase in the score as well.
 
 
+# How to install this game using XCODE.
+1. Clone it from the Repository.
+2. Play it in the emulator or your own Device.
+
+
 # Pictures
 
 <img src="https://user-images.githubusercontent.com/10769198/162049073-aab2aedc-8c31-413f-9143-a8c515f288f0.png" width = "35%" height = "35%" > &nbsp; &nbsp; &nbsp; &nbsp; 
